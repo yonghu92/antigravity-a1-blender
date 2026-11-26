@@ -4,6 +4,8 @@ An animated Blender reconstruction of the Antigravity A1, the 8K 360° camera dr
 
 [Download the Blender project (3.74 MB)](https://github.com/yonghu92/antigravity-a1-blender/raw/refs/heads/main/Antigravity_A1_Model_Study.blend) · [Watch the 58-second English film on YouTube](https://youtu.be/bzc9GGmzmGE)
 
+另一个可编辑版本是早期的外观分解工程，332 帧依次展示桨臂、机壳和镜头的分离。The earlier 332-frame exterior study follows the propeller arms, shell and lens modules as they separate. [下载早期拆解工程 · Download the exterior study (0.25 MB)](https://raw.githubusercontent.com/yonghu92/antigravity-a1-blender/main/Antigravity_A1_Exploded.blend) · [观看成片普通话版](https://youtu.be/xl1pMyB-RTs)
+
 ![Exploded view of the A1 with labels on the upper fisheye lens, cooling assembly and main board](exploded-view.jpg)
 
 ## Explore the model
